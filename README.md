@@ -14,7 +14,7 @@ those are eligible for loan amount so that they can specifically target these cu
 ### Business Problem Solved:
 <b>Banks: Automating the loan approval system</b>
 
-# Results From E.D.A
+## Results From E.D.A
 ### Data Distribution
 <img src="https://github.com/Mohan-Gupta/Loan-Eligibility-Prediction/blob/main/images/Data%20distribution.png"><br>
 
@@ -36,7 +36,7 @@ those are eligible for loan amount so that they can specifically target these cu
 <img src = "https://github.com/Mohan-Gupta/Loan-Eligibility-Prediction/blob/main/images/property_area.png"><br>
 <b>People with property area as Semi-Urban have recieved the most loans</b>
 
-# Process Followed
+## Process Followed
 
 - First, Imputed the null values using KNN imputer.<br><br>
 - Then, Used Smote Tomek to handle the Class Imbalance.<br><br>
@@ -44,10 +44,10 @@ those are eligible for loan amount so that they can specifically target these cu
   features.<br><br>
 - Model Selection - checked the cross-val score for 5 folds for all the classification models.<br><br>
 - Random Forest and Cat Boost gave the best results. Then, Hypertuned the RandomForest Classifier.<br><br>
-- Finally, used Voting Classifier with soft voting and model used Random Forest Classifier and Cat Boost.<br>
+- Finally, used Voting Classifier with soft voting and model used Random Forest Classifier and Cat Boost.<br><br>
 - Used streamlit(app.py) for providing the user interface
 
-# Results Obtained
+## Results Obtained
 
 ### Confusion Matrix
 <img src="https://github.com/Mohan-Gupta/Loan-Eligibility-Prediction/blob/main/images/confusion_matrix.png"><br>
