@@ -1,5 +1,5 @@
 # Loan Eligibility Prediction
-<img src= "https://github.com/Mohan-Gupta/Loan-Eligibility-Prediction/blob/main/images/Loan.gif"><br>
+<img src= "images/Loan.gif"><br>
 
 This is a challenge on [Analytics Vidhya Datahack Competition](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/) <br>
 
@@ -16,24 +16,24 @@ those are eligible for loan amount so that they can specifically target these cu
 
 ## Results From E.D.A
 ### Data Distribution
-<img src="https://github.com/Mohan-Gupta/Loan-Eligibility-Prediction/blob/main/images/Data%20distribution.png"><br>
+<img src="images/Data%20distribution.png"><br>
 
-<img src = "https://github.com/Mohan-Gupta/Loan-Eligibility-Prediction/blob/main/images/cat_distribution.png"><br>
+<img src = "images/cat_distribution.png"><br>
 
 ### Ideal Number of Dependents
-<img src= "https://github.com/Mohan-Gupta/Loan-Eligibility-Prediction/blob/main/images/dependents.png"><br>
+<img src= "images/dependents.png"><br>
 <b>People with 2 Dependents have recieved most loans</b>
 
 ### Marriage Status Effect on Loan Approval
-<img src= "https://github.com/Mohan-Gupta/Loan-Eligibility-Prediction/blob/main/images/marriage.png"><br>
+<img src= "images/marriage.png"><br>
 <b>71% Married people have recieved the loan whereas 63% Non-Married people have recieved the loan</b>
 
 ### Graduate or Not-Graduate
-<img src= "https://github.com/Mohan-Gupta/Loan-Eligibility-Prediction/blob/main/images/graduate.png"><br>
+<img src= "images/graduate.png"><br>
 <b>Graduates are more likely to recieve loans as compared to Non Graduates</b>
 
 ### Ideal Property Area
-<img src = "https://github.com/Mohan-Gupta/Loan-Eligibility-Prediction/blob/main/images/property_area.png"><br>
+<img src = "images/property_area.png"><br>
 <b>People with property area as Semi-Urban have recieved the most loans</b>
 
 ## Process Followed
@@ -50,7 +50,7 @@ those are eligible for loan amount so that they can specifically target these cu
 ## Results Obtained
 
 ### Confusion Matrix
-<img src="https://github.com/Mohan-Gupta/Loan-Eligibility-Prediction/blob/main/images/confusion_matrix.png"><br>
+<img src="images/confusion_matrix.png"><br>
 
 ### Classification Report
 
@@ -64,6 +64,6 @@ those are eligible for loan amount so that they can specifically target these cu
     weighted avg    0.98      0.98     0.98       692
 
 ### ROC - AUC Curve
-<img src = "https://github.com/Mohan-Gupta/Loan-Eligibility-Prediction/blob/main/images/roc-auc%20curve.png"><br><br>
+<img src = "images/roc-auc%20curve.png"><br><br>
 
 Checkout the notebooks for more detailed understanding.
